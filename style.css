@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container1 {
+    margin: 0 30px;
+}
+
+.container1 {
+    display: flex;
+    text-align: center;
+    flex-wrap:wrap ;
+}
+
+
+.A h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+
+.card {
+    padding: 20pxpx;
+    width: 220px;
+    margin: auto;
+}
+
+.container {
+    margin: 0px;
+    padding: 2px 16px;
+    color: orange;
+
+}
+
+img {
+    border-radius: 100%;
+    height: 150px;
+}
+p{
+    color: black;
+    text-align: center;
+}
+.p1{
+    color: rgb(132, 124, 124);
+    min-width: 12px;
+    
+}
